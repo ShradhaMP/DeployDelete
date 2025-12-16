@@ -4,7 +4,7 @@
   "workflowName": "New Workflow",
   "itemType": "workflow",
   "appId": "LSSwzyDpvLZXrTWHZyVzV",
-  "folderId": "pykCcjSJhWMTSljnzmigE",
+  "folderId": "iDsxieWwqdWBUsEawPHqC",
   "type": "ORCHESTRATION",
   "version": "0.0.1",
   "steps": [
@@ -42,7 +42,8 @@
         "description": "",
         "path": "/test",
         "method": [
-          "GET"
+          "GET",
+          "POST"
         ],
         "allowedMediaTypes": [
           "application/json"
